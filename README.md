@@ -1,2 +1,3 @@
-# Epic-Archery-P23-V3
-Proj23 V3
+# Project 23
+
+Project Solution 23
